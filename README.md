@@ -1,2 +1,9 @@
-# cs4248-pos-tagger
-My solutions to programming assignments for CS4248 AY19/20 Semester 1 (taught by Prof. Ng Hwee Tou)
+# CS4248 Programming Assignment
+
+## PA1
+
+HMM with Viterbi algorithm. Blind test accuracy 95.9%
+
+## PA2
+
+Bi-LSTM + CNN with character embeddings. Blind test accuracy 96.47%
